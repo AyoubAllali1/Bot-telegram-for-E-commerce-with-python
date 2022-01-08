@@ -5,7 +5,7 @@ API_KEY = 'your key'
 
 provider_token = 'your provider token here'  # @BotFather -> Bot Settings -> Payments
 
-
+# Data of items 
 pizza = [
   {'title':'Pizza Chicken','description':'want to eat Pizza ?','photo':'https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/Chicken-Pizza_exps30800_FM143298B03_11_8bC_RMS.jpg','price':[LabeledPrice('pizza', 600)]},
   {'title':'Pizza Fish','description':'want to eat Pizza ?','photo':'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5j8d1Ytw07h4FOWHzTEJT5yq5Jhgk7adJQw&usqp=CAU','price':[LabeledPrice('pizza', 700)]},
